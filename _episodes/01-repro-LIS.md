@@ -43,7 +43,6 @@ Read Stodden’s article that defines the various types of reproducibility:
 >Read the full report here:
 >**National Academies of Sciences, Engineering, and Medicine. (2019). *Reproducibility and replicability in science*. National Academies Press. https://doi.org/10.17226/25303**
 >
-> {: .source}
 {: .callout}
 
 > ## Reproducibility vs. Reproducibility
@@ -80,10 +79,8 @@ Read Stodden’s article that defines the various types of reproducibility:
 >>
 >> In this scenario, researchers repeated the steps of the original power pose experiment but arrived at different results.  Problems with the study design and protocols rendered the original power pose study *empirically irreproducible*.
 >>
->> {: .source}
 > {: .solution}
 >
-> {: .source}
 {: .challenge}
 
 ## What about Qualitiative Research?
@@ -114,7 +111,6 @@ The ability of a researcher to obtain and use the data and analysis code from th
 >
 > **Berkeley Initiative for Transparency in the Social Sciences. (2016, June 2). *What are Merton’s norms?* https://youtu.be/00btFojQPiU**
 >
-> {: .source}
 {: .callout}
 
 ### The Reproducibility "Crisis"
@@ -130,7 +126,6 @@ The reasons for irreproducibility are plenty, but an issue that appears quite of
 > Read the article that introduces the concept of preproducibility here: 
 > **Stark, P. B. (2018). Before reproducibility must come preproducibility. *Nature*, *557*(7707), 613–613. https://doi.org/10.1038/d41586-018-05256-0**
 >
-> {: .source} 
 {: .callout}
 
 
