@@ -29,21 +29,21 @@ Statistical reproducibility relies on the application of appropriate statistical
 Computational reproducibility considers scientific practice that relies on computational methods to produce results.  That ability to use the original same data and code to produce identical results as those of the original study describes computational reproducibility. 
 
 Read Stodden’s article that defines the various types of reproducibility:
+
 **Stodden, V. (2015). Reproducing statistical results. *Annual Review of Statistics and Its Application*, *2*(1), 1–19. https://doi.org/10.1146/annurev-statistics-010814-020127**
 
-> ## The Definitive Definition of "Reproducibility"
-> In discussions of reproducibility, you also may have seen the terms *replicability*, *verifiability*, *repeatability*, and *transparency* used to describe any one of the three definitions provided above.  These terms have been used interchangeably and with conflating definitions, ultimately obfuscating their intended meanings.  However, it does seem that the scientific community is converging on clearer definitions that capture the nuances of these related terms.
->
-> A recent report published by the National Academies of Sciences, Engineering and Medicine (2019) makes a clear distinction between reproducibility and replicability as a means to resolve ambiguities in the use of these and related terms.  Their definitions are below as presented in the report:
->
-> *Reproducibility* is obtaining consistent results using the same input data; computational steps, methods, and code; and conditions of analysis.  This definition is synonymous with “computational reproducibility”...
->
-> *Replicability* is obtaining consistent results across studies aimed at answering the same scientific question, each of which has obtained its own data (p. 46).
->
->Read the full report here:
->**National Academies of Sciences, Engineering, and Medicine. (2019). *Reproducibility and replicability in science*. National Academies Press. https://doi.org/10.17226/25303**
->
-{: .callout}
+## The Definitive Definition of "Reproducibility"
+In discussions of reproducibility, you also may have seen the terms *replicability*, *verifiability*, *repeatability*, and *transparency* used to describe any one of the three definitions provided above.  These terms have been used interchangeably and with conflating definitions, ultimately obfuscating their intended meanings.  However, it does seem that the scientific community is converging on clearer definitions that capture the nuances of these related terms.
+
+A recent report published by the National Academies of Sciences, Engineering and Medicine (2019) makes a clear distinction between reproducibility and replicability as a means to resolve ambiguities in the use of these and related terms.  Their definitions are below as presented in the report:
+
+*Reproducibility* is obtaining consistent results using the same input data; computational steps, methods, and code; and conditions of analysis.  This definition is synonymous with “computational reproducibility”...
+
+*Replicability* is obtaining consistent results across studies aimed at answering the same scientific question, each of which has obtained its own data (p. 46).
+
+Read the full report here:
+
+**National Academies of Sciences, Engineering, and Medicine. (2019). *Reproducibility and replicability in science*. National Academies Press. https://doi.org/10.17226/25303**
 
 > ## Reproducibility vs. Reproducibility
 > Read the descriptions of real-life instances in which published research findings were discovered to be non-reproducible. Based on the definitions of reproducibility types, determine which—**empirical**, **statistical**, or **computational**—applies to the scenario in each description.
@@ -59,7 +59,7 @@ Read Stodden’s article that defines the various types of reproducibility:
 > Thomas Herndon, a graduate student at the University of Massachusetts Amherst was assigned a class project to select an article from an economics journal and attempt to reproduce its findings.  After several attempts, Herndon was unsuccessful, assuming that he had made some mistake in his own analysis. Even after obtaining the underlying analysis data from the authors themselves, Herndon was still unable to reproduce the results from the well-respected authors.  Upon closer inspection of the spreadsheet of data he was given, however, he found a critical discovery that would shock the entire field of economics.
 >
 > That discovery was a basic Excel miscalculation, one that tested the veracity of the findings from the influential Reinhart and Rogoff article, “Growth in a Time of Debt,” cited over 4,000 times and used by governments to justify specific austerity measures to address economic crises.  While corrections to the analysis yielded different results (which Herndon later published) from those in the original article, the authors insisted that these differences did not change their central findings.  However, the authors did acknowledge their error in a public statement: “It is sobering that such an error slipped into one of our papers despite our best efforts to be consistently careful.  We will redouble our efforts to avoid such errors in the future.”
-
+>
 > **Scenario 3:  Cuddy – The Powerless Power Pose**
 >
 > With over 60,000 views, Amy Cuddy’s TED Talk, “Your body language may shape who you are,” convinced many people that “power posing” induces an actual sense of increased power.  Cuddy, a social psychologist, along with co-authors Dana Carney and Andy Yap published results of a study that investigated the physiological and behavioral effects of posing in open, expansive postures: wide stance, hands on hips.  The authors found that embodiments of power (i.e., power posing) cause a decrease of cortisol (the stress hormone) while increasing testosterone and risk tolerance.  They concluded that power posing manifests actual feelings of power.
@@ -89,6 +89,7 @@ Qualitative research methodologies do not rely on analyses of quantitatively mea
 Considering the more constructivist nature of qualitative research (in contrast to positivist quantitative research), assessments of research integrity emphasize production transparency and analytic transparency.  Production transparency requires that the processes for research participant selection, data collection, and analytic interpretation—and the decisions that informed these processes—be documented in explicit detail.  Analytic transparency demands clear descriptions and explanations of the methods and logic used to draw conclusions from the data.  For qualitative research, a high degree of production and analytic transparency is prerequisite for demonstrating research rigor and credibility.
 
 Read more about reproducibility and transparency in qualitative research here:
+
 **Elman, C., Kapiszewski, D., & Lupia, A. (2018). Transparent social inquiry: Implications for social science. *Annual Review of Political Science*, *21*, 29–47. https://doi.org/10.1146/annurev-polisci-091515-025429**
 
 **TalkadSukumar, P., & Metoyer, R. (2019). *Replication and transparency of qualitative research from a constructivist perspective* [Preprint]. Open Science Framework. https://doi.org/10.31219/osf.io/6efvp**
@@ -127,6 +128,33 @@ The reasons for irreproducibility are plenty, but an issue that appears quite of
 > **Stark, P. B. (2018). Before reproducibility must come preproducibility. *Nature*, *557*(7707), 613–613. https://doi.org/10.1038/d41586-018-05256-0**
 >
 {: .callout}
+
+> ## Averting the Reproducibility Crisis
+> Consider one of the three scenarios from the previous exercise (“Reproducibility vs. Reproducibility”).  Provide responses to the following questions about the scenario you selected.
+> - What may have been some consequences of the discovery that the study was not reproducible?
+> - What were the causes of non-reproducibility?
+> - What could the researchers of the original study have done differently to avoid the issues that rendered the research non-reproducible?
+>
+>> ## Solution
+>> **Scenario 1 (Wansink)**:  All of the research outputs from the Cornell Food and Brand Lab have been called into question since the discovery of various problems in research led by Brian Wansink. The nutrition policies and programs in which Wansink played a part may need to be reconsidered in light Scenario 1 (Wansink):  All of the research outputs from the Cornell Food and Brand Lab have been called into question since the discovery of various problems in research led by Brian Wansink. The nutrition policies and programs in which Wansink played a part may need to be reconsidered in light of accusations of scientific misconduct.  Wansink’s published research findings were not reproducible because of his failure to provide access to documentation and data that could demonstrate the integrity of his analytic methods and results. Without it, Wansink’s scientific claims are indefensible.  Beyond providing access to documentation, data, and code, pre-registration could have been an effective strategy for preventing the problems seen in Wansink’s work.  Pre-registering a study obliges researchers to declare their hypothesis, study design, and analysis plan publicly prior to the start of research activities. Deviations from the plan require explanation, which makes the research more transparent. 
+>>
+>> **Scenario 2 (Reinhart & Rogoff)**: Governments who implemented austerity measures based on Reinhart & Rogoff’s findings may not have yielded the expected outcomes and exacerbated the economic crisis in their respective countries as a result.  The causes of non-reproducibility were primarily due to errors made in the Excel spreadsheet used by the original authors for calculations.  Rather than rely on a spreadsheet program, the authors could have used statistical software designed for data analysis to write and execute code to generate results. The code itself reveals the analytic steps taken to arrive at the reported results, which would have enabled the authors (and secondary users) to inspect and verify the validity of their analytic workflow and outputs. 
+>>
+>> **Scenario 3 (Cuddy)**: The publication of Cuddy’s power pose research and the scrutiny it was met with happened in the midst of heated arguments among psychologist about the scientific rigor of research produced in their disciplinary domain. Some scholars in the field took umbrage against published studies that presented seemingly unlikely findings and set to work to assess the validity of these findings. What they discovered was widespread abuse of researchers’ degrees of freedom as a means of generating positive, and likely more publishable, results.  Because of the publicity it received, Cuddy’s research became something of a poster child of the so-called reproducibility crisis in psychology with its questionable methods and perhaps overstated positive results.  This cast widespread doubt not only on her research findings, but also on those from the field of psychology writ large.  Clear and comprehensive documentation and justification of research protocols used in Cuddy’s experiments would have helped bolster the replicability of her research claims. 
+>>
+> {: .solution}
+>
+{: .challenge}
+
+### The Reproducibility Mandate
+In light of consequential reproducibility failures, various research stakeholders have taken steps to promote and protect the integrity of scientific research.  
+
+Funding agencies make billions of dollars in scientific investments by sponsoring grant programs that provide support to research projects. To maximize their investments, many funders have issued policies that require grant awardees to make the materials produced in the course of funded research activities publicly available.  By doing so, the scientific community can reuse datasets, analysis code, and other research artifacts to extend and verify results.
+
+As stewards of the scientific record, journals bear responsibility for ensuring that the articles they publish contain verifiable claims.  Moreover, journals recognize the role they play in traditional tenure and promotion structures, which appraise scientific productivity based on publication of articles in scholarly journals.  Thus, journal policies that make publication contingent on data sharing and verification are considered a promising tool for advancing research reproducibility.  
+
+Academic societies have taken up the issue of reproducibility in updated professional codes of conduct or ethics.  Citing responsibility to advance research in their discipline, these formal documents obligate researchers to enable others to evaluate their knowledge claims through transparent research practices and public access to data and materials underlying those knowledge claims. 
+
 
 
 
