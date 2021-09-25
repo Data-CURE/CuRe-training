@@ -37,9 +37,9 @@ In discussions of reproducibility, you also may have seen the terms *replicabili
 
 A recent report published by the National Academies of Sciences, Engineering and Medicine (2019) makes a clear distinction between reproducibility and replicability as a means to resolve ambiguities in the use of these and related terms.  Their definitions are below as presented in the report:
 
-*Reproducibility* is obtaining consistent results using the same input data; computational steps, methods, and code; and conditions of analysis.  This definition is synonymous with “computational reproducibility”...
-
-*Replicability* is obtaining consistent results across studies aimed at answering the same scientific question, each of which has obtained its own data (p. 46).
+> *Reproducibility* is obtaining consistent results using the same input data; computational steps, methods, and code; and conditions of analysis.  This definition is synonymous with “computational reproducibility”...
+>
+> *Replicability* is obtaining consistent results across studies aimed at answering the same scientific question, each of which has obtained its own data (p. 46).
 
 Read the full report here:
 
@@ -110,11 +110,12 @@ In their discussions of the reproducibility, many scholars have made reference t
 Arguments for reproducibility often associate the Mertonian Norms to the principles of reproducibility, particularly when making the case for open data access (communalism and disinterestedness) and independent verification of reproducibility (universalism and organized skepticism), citing the Mertonian Norms as being central to productive and moral scientific practice and culture. 
 
 Read the essay that introduced the Mertonian Norms and learn more here:
+
 **Merton, R. K. (1973). The normative structure of science. In *The sociology of science: Theoretical and empirical investigations*. University of Chicago Press. http://www.panarchy.org/merton/science.html**
 
 **Berkeley Initiative for Transparency in the Social Sciences. (2016, June 2). *What are Merton’s norms?* https://youtu.be/00btFojQPiU**
 
-### The Reproducibility "Crisis"
+### The Reproducibility Crisis
 In a 2016 survey conducted by the journal Nature, researchers were asked if there was a reproducibility crisis.  Of the 1,576 who responded to the survey, 90% agreed that there was at least a slight crisis. 70% conceded that they were unable to reproduce a study conducted by another scientist, with over half admitting to being unable to reproduce a study that they, themselves, conducted! 
 
 There are plenty of high-profile examples of research that were found to be irreproducible such as those described in the previous section that have prompted the question of whether or not science is experiencing a reproducibility crisis.  Recent studies to determine the extent to which published research is or is not reproducible have been concerning to many given that investigators were unable to successfully reproduce findings from a significant portion of published research.
@@ -125,6 +126,7 @@ The reasons for irreproducibility are plenty, but an issue that appears quite of
 > In a 2018 article published in the journal Nature, Phillip Stark offered another term for consideration for use in discussions of reproducibility:  *preproducibility*.  He wrote, “An experiment or analysis is preproducible if it has been described in adequate detail for others to undertake it.  Preproducibility is a prerequisite for reproducibility...” (p. 613).  The question of reproducibility, according to Stark, is irrelevant if documentation of research methods and protocols are insufficient or unavailable.  Stark declared his unequivocal stance on the subject, declining to review any manuscript that is not preproducible.    
 >
 > Read the article that introduces the concept of preproducibility here: 
+>
 > **Stark, P. B. (2018). Before reproducibility must come preproducibility. *Nature*, *557*(7707), 613–613. https://doi.org/10.1038/d41586-018-05256-0**
 >
 {: .callout}
@@ -154,12 +156,5 @@ Funding agencies make billions of dollars in scientific investments by sponsorin
 As stewards of the scientific record, journals bear responsibility for ensuring that the articles they publish contain verifiable claims.  Moreover, journals recognize the role they play in traditional tenure and promotion structures, which appraise scientific productivity based on publication of articles in scholarly journals.  Thus, journal policies that make publication contingent on data sharing and verification are considered a promising tool for advancing research reproducibility.  
 
 Academic societies have taken up the issue of reproducibility in updated professional codes of conduct or ethics.  Citing responsibility to advance research in their discipline, these formal documents obligate researchers to enable others to evaluate their knowledge claims through transparent research practices and public access to data and materials underlying those knowledge claims. 
-
-
-
-
-
-
-
 
 {% include links.md %}
