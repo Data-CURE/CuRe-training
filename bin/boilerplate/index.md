@@ -15,5 +15,5 @@ The goal of this introductory lesson is to provide learners with foundational kn
 >
 > FIXME
 {: .prereq}
-This lesson has no prerequisites, anad the materials assume no prior knowledge about the topics and tools introduced in each episode.
+This lesson has no prerequisites, and the materials assume no prior knowledge about the topics and tools introduced in each episode.
 {% include links.md %}
