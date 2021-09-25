@@ -32,7 +32,7 @@ Read Stodden’s article that defines the various types of reproducibility:
 
 **Stodden, V. (2015). Reproducing statistical results. *Annual Review of Statistics and Its Application*, *2*(1), 1–19. https://doi.org/10.1146/annurev-statistics-010814-020127**
 
-## The Definitive Definition of "Reproducibility"
+### The Definitive Definition of "Reproducibility"
 In discussions of reproducibility, you also may have seen the terms *replicability*, *verifiability*, *repeatability*, and *transparency* used to describe any one of the three definitions provided above.  These terms have been used interchangeably and with conflating definitions, ultimately obfuscating their intended meanings.  However, it does seem that the scientific community is converging on clearer definitions that capture the nuances of these related terms.
 
 A recent report published by the National Academies of Sciences, Engineering and Medicine (2019) makes a clear distinction between reproducibility and replicability as a means to resolve ambiguities in the use of these and related terms.  Their definitions are below as presented in the report:
