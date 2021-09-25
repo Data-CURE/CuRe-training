@@ -13,7 +13,7 @@ The goal of this introductory lesson is to provide learners with foundational kn
 
 > ## Prerequisites
 >
-> 
+> This lesson has no prerequisites, and the materials assume no prior knowledge about the topics and tools introduced in each episode.
 {: .prereq}
-This lesson has no prerequisites, and the materials assume no prior knowledge about the topics and tools introduced in each episode.
+
 {% include links.md %}
