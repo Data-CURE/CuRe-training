@@ -83,16 +83,18 @@ Read the full report here:
 >
 {: .challenge}
 
-## What about Qualitiative Research?
-Qualitative research methodologies do not rely on analyses of quantitatively measurable variables, which is why some scholars have argued that reproducibility standards do not or cannot apply to qualitative research. There is no doubt, however, that findings from qualitative studies must be subject to the same level of scrutiny as those produced by their quantitative counterparts. Certainly, the credibility of qualitative research is just as important as the credibility of quantitative research.  Assessing the reproducibility of qualitative research is conceivable, albeit with a focus on transparency.
-
-Considering the more constructivist nature of qualitative research (in contrast to positivist quantitative research), assessments of research integrity emphasize production transparency and analytic transparency.  Production transparency requires that the processes for research participant selection, data collection, and analytic interpretation—and the decisions that informed these processes—be documented in explicit detail.  Analytic transparency demands clear descriptions and explanations of the methods and logic used to draw conclusions from the data.  For qualitative research, a high degree of production and analytic transparency is prerequisite for demonstrating research rigor and credibility.
-
-Read more about reproducibility and transparency in qualitative research here:
-
-**Elman, C., Kapiszewski, D., & Lupia, A. (2018). Transparent social inquiry: Implications for social science. *Annual Review of Political Science*, *21*, 29–47. https://doi.org/10.1146/annurev-polisci-091515-025429**
-
-**TalkadSukumar, P., & Metoyer, R. (2019). *Replication and transparency of qualitative research from a constructivist perspective* [Preprint]. Open Science Framework. https://doi.org/10.31219/osf.io/6efvp**
+> ## What about Qualitiative Research?
+> Qualitative research methodologies do not rely on analyses of quantitatively measurable variables, which is why some scholars have argued that reproducibility standards do not or cannot apply to qualitative research. There is no doubt, however, that findings from qualitative studies must be subject to the same level of scrutiny as those produced by their quantitative counterparts. Certainly, the credibility of qualitative research is just as important as the credibility of quantitative research.  Assessing the reproducibility of qualitative research is conceivable, albeit with a focus on transparency.
+>
+> Considering the more constructivist nature of qualitative research (in contrast to positivist quantitative research), assessments of research integrity emphasize production transparency and analytic transparency.  Production transparency requires that the processes for research participant selection, data collection, and analytic interpretation—and the decisions that informed these processes—be documented in explicit detail.  Analytic transparency demands clear descriptions and explanations of the methods and logic used to draw conclusions from the data.  For qualitative research, a high degree of production and analytic transparency is prerequisite for demonstrating research rigor and credibility.
+>
+> Read more about reproducibility and transparency in qualitative research here:
+>
+> **Elman, C., Kapiszewski, D., & Lupia, A. (2018). Transparent social inquiry: Implications for social science. *Annual Review of Political Science*, *21*, 29–47. https://doi.org/10.1146/annurev-polisci-091515-025429**
+>
+> **TalkadSukumar, P., & Metoyer, R. (2019). *Replication and transparency of qualitative research from a constructivist perspective* [Preprint]. Open Science Framework. https://doi.org/10.31219/osf.io/6efvp**
+>
+{: .callout}
 
 ## The Impetus for Scientific Reproducibility
 The notion that autism is linked to vaccines first appeared in two articles by Andrew Wakefield, which reported results of a study of a small group of children who had received the MMR vaccine and subsequently diagnosed with autism.  A subsequent examination of the study protocols and data from health records, however, revealed that no interpretation of the data could have reasonably concluded that instances of autism diagnoses were linked to the vaccine. The Wakefield articles eventually were retracted by the Lancet journal that published them, and Wakefield was found guilty of scientific misconduct and fraud.  Our understanding of the relationship between autism and vaccines is more reliably supported by the many studies and meta-analyses of studies on the subject that have consistently shown that vaccines do not cause autism.  
@@ -102,17 +104,15 @@ Research findings are considered to be rigorous and valid if subsequent attempts
 With scientific research increasingly becoming computationally intensive, reproducibility has become fundamental for demonstrating the integrity of reported research findings. Confirmation of the reproducibility of research results adds another necessary element of research checks and balances.
 The ability of a researcher to obtain and use the data and analysis code from the author of published scientific findings to re-produce those findings is an essential standard by which the scientific community judges the integrity of research data and their associated publications.  
 
-> ## Mertonian Norms
-> In their discussions of the reproducibility, many scholars have made reference to Robert Merton’s “Ethos of Science” in which he defines four norms of research, or Mertonian Norms: universalism, communalism, disinterestedness, and organized skepticism.  *Universalism* establishes the use of unbiased criteria for verifying knowledge claims, *communalism* posits that science is a collaborative enterprise that requires scientific outputs to be in the public domain, *disinterestedness* addresses scientific integrity unfettered by self-interest with scientists held to a standard of rigor, and *organized skepticism* calls for the formal institutionalization of testable, objective science.  
->
-> Arguments for reproducibility often associate the Mertonian Norms to the principles of reproducibility, particularly when making the case for open data access (communalism and disinterestedness) and independent verification of reproducibility (universalism and organized skepticism), citing the Mertonian Norms as being central to productive and moral scientific practice and culture. 
-> 
-> Read the essay that introduced the Mertonian Norms and learn more here:
-> **Merton, R. K. (1973). The normative structure of science. In *The sociology of science: Theoretical and empirical investigations*. University of Chicago Press. http://www.panarchy.org/merton/science.html**
->
-> **Berkeley Initiative for Transparency in the Social Sciences. (2016, June 2). *What are Merton’s norms?* https://youtu.be/00btFojQPiU**
->
-{: .callout}
+### Mertonian Norms
+In their discussions of the reproducibility, many scholars have made reference to Robert Merton’s “Ethos of Science” in which he defines four norms of research, or Mertonian Norms: universalism, communalism, disinterestedness, and organized skepticism.  *Universalism* establishes the use of unbiased criteria for verifying knowledge claims, *communalism* posits that science is a collaborative enterprise that requires scientific outputs to be in the public domain, *disinterestedness* addresses scientific integrity unfettered by self-interest with scientists held to a standard of rigor, and *organized skepticism* calls for the formal institutionalization of testable, objective science.  
+
+Arguments for reproducibility often associate the Mertonian Norms to the principles of reproducibility, particularly when making the case for open data access (communalism and disinterestedness) and independent verification of reproducibility (universalism and organized skepticism), citing the Mertonian Norms as being central to productive and moral scientific practice and culture. 
+
+Read the essay that introduced the Mertonian Norms and learn more here:
+**Merton, R. K. (1973). The normative structure of science. In *The sociology of science: Theoretical and empirical investigations*. University of Chicago Press. http://www.panarchy.org/merton/science.html**
+
+**Berkeley Initiative for Transparency in the Social Sciences. (2016, June 2). *What are Merton’s norms?* https://youtu.be/00btFojQPiU**
 
 ### The Reproducibility "Crisis"
 In a 2016 survey conducted by the journal Nature, researchers were asked if there was a reproducibility crisis.  Of the 1,576 who responded to the survey, 90% agreed that there was at least a slight crisis. 70% conceded that they were unable to reproduce a study conducted by another scientist, with over half admitting to being unable to reproduce a study that they, themselves, conducted! 
@@ -144,7 +144,7 @@ The reasons for irreproducibility are plenty, but an issue that appears quite of
 >>
 > {: .solution}
 >
-{: .challenge}
+{: .discussion}
 
 ### The Reproducibility Mandate
 In light of consequential reproducibility failures, various research stakeholders have taken steps to promote and protect the integrity of scientific research.  
