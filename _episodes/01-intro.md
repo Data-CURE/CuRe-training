@@ -138,7 +138,7 @@ The reasons for irreproducibility are plenty, but an issue that appears quite of
 ## Reproducibility Mandates
 In light of consequential reproducibility failures, various research stakeholders have taken steps to promote and protect the integrity of scientific research.  
 
-####Funding Agencies
+### Funding Agencies
 Funding agencies make enormous scientific investments by sponsoring grant programs that provide support to research projects. To maximize their investments, many funders have issued policies that require grant awardees to make the materials produced in the course of funded research activities publicly available.  By doing so, the scientific community can reuse datasets, analysis code, and other research artifacts to extend and verify results. Below are examples of funding agencies that have data policies in place.
 
 | Funding Agency | Summary |
