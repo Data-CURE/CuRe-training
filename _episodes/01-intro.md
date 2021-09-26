@@ -135,10 +135,10 @@ The reasons for irreproducibility are plenty, but an issue that appears quite of
 >
 {: .discussion}
 
-### The Reproducibility Mandate
+## Reproducibility Mandates
 In light of consequential reproducibility failures, various research stakeholders have taken steps to promote and protect the integrity of scientific research.  
 
-#### Funding Agencies
+####Funding Agencies
 Funding agencies make enormous scientific investments by sponsoring grant programs that provide support to research projects. To maximize their investments, many funders have issued policies that require grant awardees to make the materials produced in the course of funded research activities publicly available.  By doing so, the scientific community can reuse datasets, analysis code, and other research artifacts to extend and verify results. Below are examples of funding agencies that have data policies in place.
 
 | Funding Agency | Summary |
@@ -149,7 +149,7 @@ Funding agencies make enormous scientific investments by sponsoring grant progra
 | [National Institutes of Health (NIH)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-03-032.html) | "Data sharing enables researchers to rigorously test the validity of research findings, strengthen analyses through combined datasets, reuse hard-to-generate data, and explore new frontiers of discovery.  In addition, NIH emphasizes the importance of good data management practices, which provide the foundation for effective data sharing and improve the reproducibility and reliability of research findings. NIH encourages data management and data sharing practices consistent with the FAIR data principles." |
 | [National Science Foundation (NSF)](https://www.nsf.gov/bfa/dias/policy/dmp.jsp) | "Investigators are expected to share with other researchers, at no more than incremental cost and within a reasonable time, the primary data, samples, physical collections and other supporting materials created or gathered in the course of work under NSF grants. Grantees are expected to encourage and facilitate such sharing." |
 
-#### Scholarly Journals
+### Scholarly Journals
 As stewards of the scientific record, journals bear responsibility for ensuring that the articles they publish contain verifiable claims.  Moreover, journals recognize the role they play in traditional tenure and promotion structures, which appraise scientific productivity based on publication of articles in scholarly journals.  Thus, journal policies that make publication contingent on data sharing and verification are considered a promising tool for advancing research reproducibility.  Below are examples of journals with rigorous data policies.
 
 | Scholarly Journal | Summary |
@@ -160,7 +160,7 @@ As stewards of the scientific record, journals bear responsibility for ensuring 
 | [Personality Science](https://ps.psychopen.eu/index.php/ps/open-science) | "*Personality Science* (PS) takes good, transparent, reproducible, and open science very seriously. This means that all published papers will have underwent screening regarding to what extent they have fulfilled [Transparency and Openness Promotion (TOP) Guidelines](https://www.cos.io/initiatives/top-guidelines)." |
 | [Science](https://www.science.org/content/page/science-journals-editorial-policies#research-standards) | "All data used in the analysis must be available to any researcher for purposes of reproducing or extending the analysis...In general, all computer code central to the findings being reported should be available to readers to ensure reproducibility...Materials/samples used in the analysis must be made available to any researcher for purposes of directly replicating the procedure." |
 
-#### Academic Societies
+### Academic Societies
 Academic societies have taken up the issue of reproducibility in updated professional codes of conduct or ethics.  Citing responsibility to advance research in their discipline, these formal documents obligate researchers to enable others to evaluate their knowledge claims through transparent research practices and public access to data and materials underlying those knowledge claims. Below is a list of academic societies that have issued policies or statements promoting data access and research transparency.
 
 | Academic Society | Summary |
