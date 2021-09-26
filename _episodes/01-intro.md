@@ -151,7 +151,7 @@ In light of consequential reproducibility failures, various research stakeholder
 #### Funding Agencies
 Funding agencies make billions of dollars in scientific investments by sponsoring grant programs that provide support to research projects. To maximize their investments, many funders have issued policies that require grant awardees to make the materials produced in the course of funded research activities publicly available.  By doing so, the scientific community can reuse datasets, analysis code, and other research artifacts to extend and verify results. Below are examples of funding agencies that have data policies in place.
 
-| Funding Agency | Policy Summary |
+| Funding Agency | Summary |
 | --- | --- | 
 | [Alfred P. Sloan Foundation](https://sloan.org/storage/app/media/files/application_documents/Sloan-Grant-Proposal-Guidelines-Research-Projects.pdf) | "Scientific progress depends on the sharing of information, on the replication of findings, and on the ability of every individual to stand of the shoulders of her predecessors...potential grantees are asked to attend to the outputs their research will create and how those outputs can best be put in service to the larger scientific community." | 
 | [Institute for Museum and Library Services (IMLS)](https://www.imls.gov/sites/default/files/digitalproduct.pdf) | "The digital products you create with IMLS funcing require effective stewardship to prtect and enhance their value, and they should be freely and readily available for use and reuse by librarries, archives, museums, and the public." |
@@ -161,7 +161,8 @@ Funding agencies make billions of dollars in scientific investments by sponsorin
 
 #### Scholarly Journals
 As stewards of the scientific record, journals bear responsibility for ensuring that the articles they publish contain verifiable claims.  Moreover, journals recognize the role they play in traditional tenure and promotion structures, which appraise scientific productivity based on publication of articles in scholarly journals.  Thus, journal policies that make publication contingent on data sharing and verification are considered a promising tool for advancing research reproducibility.  Below are examples of journals with rigorous data policies.
-| Journal | Policy Summary |
+
+| Scholarly Journal | Summary |
 | --- | --- |
 | [American Journal of Political Science (AJPS)](https://ajps.org/ajps-verification-policy/) | "The corresponding author of a manuscript that is accepted for publication in the American Journal of Political Science must provide materials that are sufficient to enable interested researchers to verify all of the analytic results that are reported in the text and supporting materials...When the draft of the manuscript is submitted, the materials will be verified to confirm that they do, in fact, reproduce the analytic results reported in the article." |
 | [American Economic Association (AEA) Journals](https://www.aeaweb.org/journals/data/data-code-policy) | "Authors of accepted papers that contain empirical work, simulations, or experimental work must provide, prior to acceptance, information about the data, programs, and other details of the computations sufficient to permit replication, as well as information about access to data and programs...The AEA Data Editor will assess compliance with this policy, and will verify the accuracy of the information prior to acceptance by the Editor." |
@@ -172,7 +173,7 @@ As stewards of the scientific record, journals bear responsibility for ensuring 
 #### Academic Societies
 Academic societies have taken up the issue of reproducibility in updated professional codes of conduct or ethics.  Citing responsibility to advance research in their discipline, these formal documents obligate researchers to enable others to evaluate their knowledge claims through transparent research practices and public access to data and materials underlying those knowledge claims. Below is a list of academic societies that have issued policies or statements promoting data access and research transparency.
 
-| Academic Society | Policy Summary |
+| Academic Society | Summary |
 | --- | --- |
 | [American Geophysical Union (AGU)](https://www.agu.org/-/media/Files/AGU-Data-Position-Statement-Final-2015.pdf) | "The	cost of collecting, processing,	validating,	documenting, and submitting data to a repository should be an integral part	of research	and	operational	programs.	The	AGU	scientific community	should recognize the professional value of	such activities." |
 | [American Psychological Association (APA)](https://www.apa.org/ethics/code) | "After research results are published, psychologists do not withhold the data on which their conclusions are based from other competent professionals who seek to verify the substantive claims through reanalysis and who intend to use such data only for that purpose, provided that the confidentiality of the participants can be protected and unless legal rights concerning proprietary data preclude their release." |
