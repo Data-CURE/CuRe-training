@@ -26,8 +26,7 @@ Statistical reproducibility relies on the application of appropriate statistical
 ### Computational Reproducibility
 Computational reproducibility considers scientific practice that relies on computational methods to produce results.  That ability to use the original same data and code to produce identical results as those of the original study describes computational reproducibility. 
 
-Read Stodden’s article that defines the various types of reproducibility:
-
+Read Stodden’s article that defines the various types of reproducibility:<br/>
 **Stodden, V. (2015). Reproducing statistical results. *Annual Review of Statistics and Its Application*, *2*(1), 1–19. [https://doi.org/10.1146/annurev-statistics-010814-020127](https://doi.org/10.1146/annurev-statistics-010814-020127)**
 
 ### The Definitive Definition of "Reproducibility"
@@ -39,42 +38,35 @@ A recent report published by the National Academies of Sciences, Engineering and
 >
 > *Replicability* is obtaining consistent results across studies aimed at answering the same scientific question, each of which has obtained its own data (p. 46).
 
-Read the full report here:
-
+Read the full report here:<br/>
 **National Academies of Sciences, Engineering, and Medicine. (2019). *Reproducibility and replicability in science*. National Academies Press. [https://doi.org/10.17226/25303](https://doi.org/10.17226/25303)**
 
 > ## Reproducibility vs. Reproducibility
 > Read the descriptions of real-life instances in which published research findings were discovered to be non-reproducible. Based on the definitions of reproducibility types, determine which—**empirical**, **statistical**, or **computational**—applies to the scenario in each description.
 >
-> **Scenario 1: Wansink - Slicing and Dicing Food Data**
->
+> **Scenario 1: Wansink - Slicing and Dicing Food Data**<br/>
 > If you believe that shopping hungry compels you to make poor food purchasing decisions or that the size of your plate can influence how much you eat, you have Brian Wansink and the Cornell Food and Brand Lab to thank.  Over the past three decades, Wansink has had over 250 articles published describing results of studies of food-related behavior, many of which have entered the popular imagination through mainstream media outlets that published many digestible news articles about Wansink’s studies.  Some of these studies informed Wansink’s work as an executive director of the USDA’s Center for Nutrition Policy and Promotion, which issues dietary guidance for the National School Lunch Program, Supplemental Nutrition Assistance Program (SNAP), and other federally sponsored nutrition programs.
 >
 > A closer look at his research by other scientists and statisticians, however, revealed considerable problems that would prevent them from repeating Wansink’s analyses.  What they discovered was rampant p-hacking, a dubious practice in which statistical tests are run repeatedly on a dataset in an attempt to yield statistically significant results, irrespective of the research question or hypothesis—if any—at hand.  Beyond p-hacking, scientists also found calculation errors including unfeasible means and standard deviations.  This was perhaps no accident, as evidenced by an email from Wansink to a lab member that instructed her to dig through a dataset to find significant relationships among variables.  Wrote Wansink, “I don’t think I’ve ever done an interesting study where the data ‘came out’ the first time I looked at it.”  A few years later after these discoveries, several of Wansink’s publications were retracted and an academic misconduct investigation prompted his removal from teaching and research duties at Cornell University.
 >
-> **Scenario 2:  Reinhart & Rogoff – Excel Fail**
->
+> **Scenario 2:  Reinhart & Rogoff – Excel Fail**<br/>
 > Thomas Herndon, a graduate student at the University of Massachusetts Amherst was assigned a class project to select an article from an economics journal and attempt to reproduce its findings.  After several attempts, Herndon was unsuccessful, assuming that he had made some mistake in his own analysis. Even after obtaining the underlying analysis data from the authors themselves, Herndon was still unable to reproduce the results from the well-respected authors.  Upon closer inspection of the spreadsheet of data he was given, however, he found a critical discovery that would shock the entire field of economics.
 >
 > That discovery was a basic Excel miscalculation, one that tested the veracity of the findings from the influential Reinhart and Rogoff article, “Growth in a Time of Debt,” cited over 4,000 times and used by governments to justify specific austerity measures to address economic crises.  While corrections to the analysis yielded different results (which Herndon later published) from those in the original article, the authors insisted that these differences did not change their central findings.  However, the authors did acknowledge their error in a public statement: “It is sobering that such an error slipped into one of our papers despite our best efforts to be consistently careful.  We will redouble our efforts to avoid such errors in the future.”
 >
-> **Scenario 3:  Cuddy – The Powerless Power Pose**
->
+> **Scenario 3:  Cuddy – The Powerless Power Pose**<br/>
 > With over 60,000 views, Amy Cuddy’s TED Talk, “Your body language may shape who you are,” convinced many people that “power posing” induces an actual sense of increased power.  Cuddy, a social psychologist, along with co-authors Dana Carney and Andy Yap published results of a study that investigated the physiological and behavioral effects of posing in open, expansive postures: wide stance, hands on hips.  The authors found that embodiments of power (i.e., power posing) cause a decrease of cortisol (the stress hormone) while increasing testosterone and risk tolerance.  They concluded that power posing manifests actual feelings of power.
 >
 > After other scientists repeated the study and failed to yield comparable results to demonstrate the robustness of the original power pose findings, some in the scientific community cast doubt on the soundness of the original study design and protocols. One of the most vocal skeptics was co-author Carney, who later announced that “I do not believe that ‘power pose’ effects are real.”  Aside from the small sample size and a questionable participant selection process, Carney explained that the experiment involved male and female participants (not distinguished by gender) who performed risk-taking tasks and subsequently were informed that they had won small cash prizes. Because the act of winning increases testosterone levels, there was no way to determine whether the increase in testosterone was an effect of the power pose as the paper concluded, or if it was merely an effect of winning.  Despite this controversy, studies on power posing continue, with some attesting to and some challenging the power of power posing.
 >
 >> ## Solution
->> **Scenario 1:  Statistical Reproducibility (Wansink)**
->>
+>> **Scenario 1:  Statistical Reproducibility (Wansink)**<br/>
 >> In this scenario, research results were generated using an inappropriate, dubious statistical technique. Statistical analyses were also rife with errors and miscalculations, which would make it impossible for anyone to arrive at the same results.  This example demonstrates lack of *statistical reproducibility*.
 >>
->> **Scenario 2:  Computational Reproducibility (Reinhart & Rogoff)**
->>
+>> **Scenario 2:  Computational Reproducibility (Reinhart & Rogoff)**<br/>
 >> In this scenario, Herndon attempted to reproduce the findings in a journal article by using the authors’ own data used to generate the results reported in the article. Unfortunately, Herndon was unable to do so, which demonstrates a failure to *computationally reproduce* the published results.
 >>
->> **Scenario 3:  Empirical Reproducibility (Cuddy)**
->>
+>> **Scenario 3:  Empirical Reproducibility (Cuddy)**<br/>
 >> In this scenario, researchers repeated the steps of the original power pose experiment but arrived at different results.  Problems with the study design and protocols rendered the original power pose study *empirically irreproducible*.
 >>
 > {: .solution}
@@ -86,8 +78,7 @@ Read the full report here:
 >
 > Considering the more constructivist nature of qualitative research (in contrast to positivist quantitative research), assessments of research integrity emphasize production transparency and analytic transparency.  Production transparency requires that the processes for research participant selection, data collection, and analytic interpretation—and the decisions that informed these processes—be documented in explicit detail.  Analytic transparency demands clear descriptions and explanations of the methods and logic used to draw conclusions from the data.  For qualitative research, a high degree of production and analytic transparency is prerequisite for demonstrating research rigor and credibility.
 >
-> Read more about reproducibility and transparency in qualitative research here:
->
+> Read more about reproducibility and transparency in qualitative research here:<br/>
 > **Elman, C., Kapiszewski, D., & Lupia, A. (2018). Transparent social inquiry: Implications for social science. *Annual Review of Political Science*, *21*, 29–47. [https://doi.org/10.1146/annurev-polisci-091515-025429](https://doi.org/10.1146/annurev-polisci-091515-025429)**
 >
 > **TalkadSukumar, P., & Metoyer, R. (2019). *Replication and transparency of qualitative research from a constructivist perspective* [Preprint]. Open Science Framework. [https://doi.org/10.31219/osf.io/6efvp](https://doi.org/10.31219/osf.io/6efvp)**
@@ -107,8 +98,7 @@ In their discussions of the reproducibility, many scholars have made reference t
 
 Arguments for reproducibility often associate the Mertonian Norms to the principles of reproducibility, particularly when making the case for open data access (communalism and disinterestedness) and independent verification of reproducibility (universalism and organized skepticism), citing the Mertonian Norms as being central to productive and moral scientific practice and culture. 
 
-Read the essay that introduced the Mertonian Norms and learn more here:
-
+Read the essay that introduced the Mertonian Norms and learn more here:<br/>
 **Merton, R. K. (1973). The normative structure of science. In *The sociology of science: Theoretical and empirical investigations*. University of Chicago Press. [http://www.panarchy.org/merton/science.html](http://www.panarchy.org/merton/science.html)**
 
 **Berkeley Initiative for Transparency in the Social Sciences. (2016, June 2). *What are Merton’s norms?* [https://youtu.be/00btFojQPiU](https://youtu.be/00btFojQPiU)**
@@ -123,7 +113,7 @@ The reasons for irreproducibility are plenty, but an issue that appears quite of
 > ## Yet Another Term: "Preproducibility"
 > In a 2018 article published in the journal Nature, Phillip Stark offered another term for consideration for use in discussions of reproducibility:  *preproducibility*.  He wrote, “An experiment or analysis is preproducible if it has been described in adequate detail for others to undertake it.  Preproducibility is a prerequisite for reproducibility...” (p. 613).  The question of reproducibility, according to Stark, is irrelevant if documentation of research methods and protocols are insufficient or unavailable.  Stark declared his unequivocal stance on the subject, declining to review any manuscript that is not preproducible.    
 >
-> Read the article that introduces the concept of preproducibility here: 
+> Read the article that introduces the concept of preproducibility here: <br/>
 > **Stark, P. B. (2018). Before reproducibility must come preproducibility. *Nature*, *557*(7707), 613–613. [https://doi.org/10.1038/d41586-018-05256-0](https://doi.org/10.1038/d41586-018-05256-0)**
 >
 {: .callout}
@@ -149,7 +139,7 @@ The reasons for irreproducibility are plenty, but an issue that appears quite of
 In light of consequential reproducibility failures, various research stakeholders have taken steps to promote and protect the integrity of scientific research.  
 
 #### Funding Agencies
-Funding agencies make billions of dollars in scientific investments by sponsoring grant programs that provide support to research projects. To maximize their investments, many funders have issued policies that require grant awardees to make the materials produced in the course of funded research activities publicly available.  By doing so, the scientific community can reuse datasets, analysis code, and other research artifacts to extend and verify results. Below are examples of funding agencies that have data policies in place.
+Funding agencies make enormous scientific investments by sponsoring grant programs that provide support to research projects. To maximize their investments, many funders have issued policies that require grant awardees to make the materials produced in the course of funded research activities publicly available.  By doing so, the scientific community can reuse datasets, analysis code, and other research artifacts to extend and verify results. Below are examples of funding agencies that have data policies in place.
 
 | Funding Agency | Summary |
 | --- | --- | 
