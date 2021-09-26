@@ -12,7 +12,8 @@ keypoints:
 - "The term 'reproducibility' has been used in different ways in different disciplinary contexts."
 - "Computational reproducibility, which is the focus of this and follow-up lessons, refers to the duplication of reported findings by re-executing the analysis with the same data and code used by the original researcher to generate their findings."
 - "Scientific reproducibility is not a novel concept, but one that has been reiterated by prominent scholars throughout history as a cornerstone of scientific practice."
-- "Failed attempts to reproduce published scientific resarch are considered by some to be reflective of an ongoing crisis in scientific integrity, which may affect public trust in science."
+- "Failed attempts to reproduce published scientific research are considered by some to be reflective of an ongoing crisis in scientific integrity, which may affect public trust in science."
+- "Research stakeholders have taken steps to promote and protect the integrity of scientific research through data policy mandates."
 ---
 ## Defining "Reproducibility"
 The term, *reproducibility*, can carry very different meanings depending on the context in which it is used.  Thus, it is important for us to begin by disambiguating among these various terms and their meanings.  To do this, we define three specific types of reproducibility that articulate the primary distinctions among the various conceptions of reproducibility defined by Victoria Stodden (2015): *empirical reproducibility*, *statistical reproducibility*, and *computational reproducibility*.
